@@ -1,0 +1,16 @@
+python-dotenv
+pandas
+numpy
+pymongo
+certifi
+pymongo[srv]
+scikit-learn
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
+
+
+##-e . ## to refer to the setip.py file then ignore -e . and continue when do setup.py: go build package from setup.py  use at final when deploy or want the package
